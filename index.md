@@ -1,7 +1,7 @@
 
 # Pratyanch Jain's First CS 193 Homework
 
-##Some of my Favorite things about CS 193
+## Some of my Favorite things about CS 193
 
 - The instructors
 - My Classmates
