@@ -1,13 +1,3 @@
-
-# Pratyanch Jain's First CS 193 Homework
-
-## Some of my Favorite things about CS 193
-
-- The instructors
-- My Classmates
-- The content (I'm really excited to learn terminal commands)
-- Getting to talk about things outside of CS 193 for CS advice
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
