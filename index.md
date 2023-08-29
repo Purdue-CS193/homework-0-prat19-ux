@@ -1,3 +1,10 @@
+# Pratyanch Jain's first CS193 Lab
+
+## Some of my favorite things about CS 193
+- The community and Instructors
+- The content (I am really excited to learn about terminal commands)
+- Getting to talk about things outside of CS 193 and getting good CS advice
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
